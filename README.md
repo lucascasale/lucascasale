@@ -1,15 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Casale;I'm+28+years+old;I'm+from+Brazil;I+Graduated+Cyber+Defense;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Lucas+Casale;I'm+28+years+old;I'm+from+Brazil;I+Graduated+Cyber+Defense;Working+with+DevSecOps;Be+Welcome!)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucascasale&bg_color=000000&color=696969&line=0000FF&point=696969&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucascasale&bg_color=000000&color=1E90FF&line=1E90FF&point=696969&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucascasale&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=696969&text_color=696969&bg_color=000000" alt="Lucas Casale github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascasale&layout=compact&hide_border=true&title_color=696969&text_color=0000FF&bg_color=000000" />
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucascasale&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=696969&text_color=696969&bg_color=000000" alt="Lucas Casale github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascasale&layout=compact&hide_border=true&title_color=1E90FF&text_color=696969&bg_color=000000" />
 </div>
 <div align="center"> 
-<a href="https://instagram.com/casale.lucas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:lucascasale@hotamil.com.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucascasale/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
@@ -18,8 +17,11 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=Windows&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117)&nbsp;
 ![CISCO](https://img.shields.io/badge/-CISCO-0D1117?style=for-the-badge&logo=CISCO&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=GitHub&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=Kubernetes&labelColor=0D1117)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=for-the-badge&logo=Terraform&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
@@ -36,4 +38,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucascasale}/count.svg" /></p> 
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
